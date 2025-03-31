@@ -4,10 +4,10 @@
 ## 🔨 Installation / Run
 * First of all setup your MySQL database.
 * Go to application.properties and add the required credentials to log in to that database, you will need the database's name, username and password.
-* If you have IntellijIDEA it will be good to make a new springboot project and then clone of fork this repo because everything else will be done automatically.
+* If you have IntellijIDEA it will be good to make a new springboot project and then clone of fork this repo because everything will be done automatically.
 
 ## :pen: Info
-The backend has admin/user security implemented and CORS policy for the links. Also it is using SQL queries to fetch data from the MySQL server and supports POST, GET, PUT, DELETE as methods of giving data to the frontend.
+The backend has admin/user role based access control security implemented and custom CORS policy for the URLs. The API is REST supporting only POST, GET, PUT, DELETE methods.
 
 ## Built With
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
