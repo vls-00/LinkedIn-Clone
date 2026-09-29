@@ -1,3 +1,6 @@
+# ⚠️ Warning
+This app was built as a project for my university during my bachelor before AI agents existed. AI can build this application nowadays x100 times better, prettier and more efficient 😄.
+
 # :globe_with_meridians: LinkedIn-Clone
 This is our implementation of a website like LinkedIn from scratch using Angular and Springboot. 
 The website supports:
@@ -12,4 +15,4 @@ The website supports:
 * Post recommendation system using Matrix-Factorization
 
 ## :raising_hand: Collaborator
-Many thanks to [@dora-jpg](https://github.com/dora-jpg) with which we made the website together!
+Many thanks to [@dora-jpg](https://github.com/dora-jpg) who was my partner!
